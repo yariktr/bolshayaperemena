@@ -1,0 +1,51 @@
+<!Doctype html>
+<html lang="en">
+<link>
+	<meta charset="UTF-8">
+    <title>ИИ и АЭС в 2020</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="line">
+          <div class="mm">
+                  <img src="http://bolshayaperemena.online/templates/def/img/logo.png" class="kr">
+          </div>
+          <div class="menu">
+              <ul class="lnmn">
+                      <li class="l1"><a class="glavnaya" href="index.php">ГЛАВНАЯ</a></li>
+                      <li class="l12"><a class="glavnaya" href="buizhess.php">БИЗНЕС-ПОМОЩНИК</a></li>
+                      <li class="l123"><a class="glavnaya" href="proekt.php">ПРОЕКТИРОВЩИК</a></li>
+                      
+            </ul>
+          </div>
+          </div>
+          <div class="maincontent">
+            <div class="zag">
+              <h1 class="hh">Добро пожаловать на наш сайт!</h1>
+            </div>
+            <div class="imgg">
+            <figure></figure>
+            <figure></figure>
+            <figure></figure>
+            <figure></figure>
+            <figure></figure>
+            <figure></figure>
+            <figure></figure>
+           </div>
+              </div>
+              <footer class="foot">
+                  <div class="log">
+                    <img src="http://bolshayaperemena.online/templates/def/img/logo_white.png" class="kr2">
+                  </div>
+               
+                  <div class="ots">
+                      <ul class="lnmn">
+                        <li class="lf"><a class="footr" href="#">О проекте</a></li>
+                        <li class="lf"><a class="footr" href="#">О нас</a></li>
+                        <li class="lf3"><a class="footr" href="https://vk.com/id254594490">Мы всегда на связи</a></li>
+                      </ul>
+                      </div>
+                  </footer>
+                  <script src="script.js"></script>
+</body>
+</html>
